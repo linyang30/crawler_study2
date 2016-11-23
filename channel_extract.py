@@ -12,7 +12,7 @@ def get_channel_url(url):
     for link in links:
         page_url = host_url + link.get('href')
         print(page_url)
-get_channel_url(second_hand_main_page_url)
+#get_channel_url(second_hand_main_page_url)
 
 channel_list ='''
     http://sz.58.com/shouji/
